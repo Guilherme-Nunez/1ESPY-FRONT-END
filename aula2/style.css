@@ -1,0 +1,41 @@
+/* CSS EXTERNO */
+p{
+    /*margin: 30px;*/
+   
+    /* margin-top: 50px;
+    margin right: 10px;
+    margin bottom: 30px;
+    margin left: 6px;*/
+
+    /*margin: 50px 10px 30px 5px*/
+    
+    /* a definição 50px se aplicará ao top e bottom, e os lados por estar em "auto" ficarão centralizados
+     margin: 50px auto*/
+
+    margin: 0 auto;
+
+    border: 5px solid red;
+    width: 300px;
+    padding: 15px;
+    box-sizing: border-box;
+
+
+}
+
+/*COMO COSTUMIZAR UM TEXTO (SEMELHANTE AO WORD) */
+
+.texto-estilizado{
+    font-family: Arial;
+    text-align: justify;
+    font-size: 18px;
+    text-decoration: underline;
+    line-height: 30px;
+
+
+}
+
+span{
+    font-weight: bold;
+    color: blueviolet;
+    
+}
